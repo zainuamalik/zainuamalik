@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zainuamalik
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning GIT
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Zain
+- 👀 I’m interested in Data Science and Artificial Intelligence
+- 🌱 I’m currently learning Generative Adversial Networks
+- 💞️ I’m looking to collaborate on AI/ML Development
 - 📫 How to reach me ...
 
 <!---
